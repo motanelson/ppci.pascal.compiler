@@ -1,4 +1,6 @@
 program hello;
+var
+a : integer;
 begin
-  writeln('hello world....');
+  a:=10+10;
 end.
